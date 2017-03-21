@@ -8,8 +8,8 @@
 *createTextNode() que le agrega texto al nodo (el elemento creado anteriormente)*
 
 ## HTML
-*Utilicé las etiquetas inline  <img> y <strong> y las etiquetas*
-*Utilicé las etiquetas block <h1>, <p>, <li>, <ol>, <div>, <input>, <button>*
+*Utilicé las etiquetas inline  img y strong y *
+*Utilicé las etiquetas block h1, p, li, ol, div, input, button*
 
 ## GitHub
 *Utilicé los comandos:*
