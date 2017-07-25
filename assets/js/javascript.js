@@ -10,6 +10,5 @@ function agregarFrutas(){
 
     lista.appendChild(node);//a la lista le adjunto el nodo que ya viene con todo y texto
   };
-    alert("Prueba de repo");
 
 }
